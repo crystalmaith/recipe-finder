@@ -1,7 +1,10 @@
-streamlit==1.31.0
-pandas==2.1.0
-pydantic==2.4.2
+
 pytest==7.4.2
 python-dotenv==1.0.0
 requests==2.31.0
 inflect==7.0.0
+
+streamlit==1.31.0
+pandas>=2.2.3
+pydantic>=2.5.2
+
