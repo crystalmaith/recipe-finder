@@ -1,0 +1,168 @@
+[
+  {
+    "id": 1,
+    "title": "Spinach Omelette",
+    "ingredients": ["eggs", "spinach", "milk", "salt", "pepper", "butter"],
+    "instructions": [
+      "Whisk eggs, milk, salt, and pepper in a bowl",
+      "Melt butter in a non-stick pan over medium heat",
+      "Add spinach and cook until wilted",
+      "Pour egg mixture over spinach",
+      "Cook until eggs are set, then fold and serve"
+    ],
+    "cook_time_mins": 15,
+    "servings": 2,
+    "tags": ["breakfast", "vegetarian", "quick-meal"],
+    "image_url": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600"
+  },
+  {
+    "id": 2,
+    "title": "Tomato Basil Pasta",
+    "ingredients": ["pasta", "tomatoes", "garlic", "basil", "olive oil", "parmesan cheese"],
+    "instructions": [
+      "Cook pasta according to package instructions",
+      "Heat olive oil in a pan and sauté garlic until fragrant",
+      "Add chopped tomatoes and cook until softened",
+      "Toss cooked pasta with the tomato sauce",
+      "Garnish with fresh basil and parmesan cheese"
+    ],
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": ["pasta", "vegetarian", "italian"],
+    "image_url": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=600"
+  },
+  {
+    "id": 3,
+    "title": "Vegetable Stir Fry",
+    "ingredients": ["rice", "broccoli", "carrot", "bell pepper", "soy sauce", "garlic", "ginger", "sesame oil"],
+    "instructions": [
+      "Cook rice according to package instructions",
+      "Heat oil in a wok or large pan",
+      "Add minced garlic and ginger, stir for 30 seconds",
+      "Add chopped vegetables and stir fry for 5-7 minutes",
+      "Add soy sauce and cook for another 2 minutes",
+      "Serve hot over rice"
+    ],
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": ["asian", "vegetarian", "vegan-option"],
+    "image_url": "https://images.unsplash.com/photo-1626700051175-681729d2e2df?w=600"
+  },
+  {
+    "id": 4,
+    "title": "Classic Pancakes",
+    "ingredients": ["flour", "sugar", "baking powder", "salt", "milk", "egg", "butter", "maple syrup"],
+    "instructions": [
+      "Mix dry ingredients in a bowl",
+      "In another bowl, whisk together milk, egg, and melted butter",
+      "Combine wet and dry ingredients, stir until just combined",
+      "Heat a griddle over medium heat and grease lightly",
+      "Pour 1/4 cup batter for each pancake",
+      "Cook until bubbles form, then flip and cook until golden brown",
+      "Serve with maple syrup"
+    ],
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": ["breakfast", "vegetarian", "sweet"],
+    "image_url": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=600"
+  },
+  {
+    "id": 5,
+    "title": "Greek Salad",
+    "ingredients": ["cucumber", "tomato", "red onion", "olives", "feta cheese", "olive oil", "lemon juice", "oregano"],
+    "instructions": [
+      "Chop cucumber, tomato, and red onion into bite-sized pieces",
+      "Combine vegetables in a large bowl with olives",
+      "Crumble feta cheese over the top",
+      "Whisk together olive oil, lemon juice, and oregano",
+      "Drizzle dressing over the salad and toss gently"
+    ],
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": ["salad", "vegetarian", "gluten-free", "healthy"],
+    "image_url": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=600"
+  },
+  {
+    "id": 6,
+    "title": "Vegetable Soup",
+    "ingredients": ["carrot", "celery", "onion", "garlic", "potato", "vegetable broth", "tomato", "bay leaf", "thyme", "salt", "pepper"],
+    "instructions": [
+      "Sauté chopped onion, carrot, and celery in olive oil until softened",
+      "Add minced garlic and cook for 1 minute",
+      "Add diced potatoes, tomatoes, vegetable broth, and seasonings",
+      "Bring to a boil, then reduce heat and simmer for 20 minutes",
+      "Remove bay leaf before serving"
+    ],
+    "cook_time_mins": 40,
+    "servings": 6,
+    "tags": ["soup", "vegetarian", "vegan-option", "comfort-food"],
+    "image_url": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600"
+  },
+  {
+    "id": 7,
+    "title": "Mushroom Risotto",
+    "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "white wine", "vegetable broth", "parmesan cheese", "butter", "parsley"],
+    "instructions": [
+      "Sauté mushrooms in butter until golden, then set aside",
+      "In the same pan, cook onion and garlic until translucent",
+      "Add rice and stir to coat with butter",
+      "Pour in wine and stir until absorbed",
+      "Add warm broth one ladle at a time, stirring frequently",
+      "When rice is creamy and al dente, stir in mushrooms and parmesan",
+      "Garnish with chopped parsley"
+    ],
+    "cook_time_mins": 45,
+    "servings": 4,
+    "tags": ["italian", "vegetarian", "comfort-food"],
+    "image_url": "https://images.unsplash.com/photo-1572695157366-5e585cccb8fa?w=600"
+  },
+  {
+    "id": 8,
+    "title": "Avocado Toast with Egg",
+    "ingredients": ["bread", "avocado", "egg", "lemon juice", "red pepper flakes", "salt", "pepper"],
+    "instructions": [
+      "Toast bread until golden",
+      "Mash avocado with lemon juice, salt, and pepper",
+      "Spread avocado mixture on toast",
+      "Top with a fried or poached egg",
+      "Sprinkle with red pepper flakes"
+    ],
+    "cook_time_mins": 10,
+    "servings": 2,
+    "tags": ["breakfast", "vegetarian", "quick-meal"],
+    "image_url": "https://images.unsplash.com/photo-1525351326368-efbb5f66d6d7?w=600"
+  },
+  {
+    "id": 9,
+    "title": "Vegetable Curry",
+    "ingredients": ["coconut milk", "curry paste", "vegetable broth", "potato", "carrot", "bell pepper", "onion", "garlic", "ginger", "lime", "cilantro"],
+    "instructions": [
+      "Sauté onion, garlic, and ginger in oil until fragrant",
+      "Add curry paste and cook for 1 minute",
+      "Add diced vegetables and stir to coat with paste",
+      "Pour in coconut milk and vegetable broth",
+      "Simmer until vegetables are tender",
+      "Stir in lime juice and garnish with cilantro"
+    ],
+    "cook_time_mins": 35,
+    "servings": 4,
+    "tags": ["curry", "vegetarian", "vegan-option", "asian"],
+    "image_url": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=600"
+  },
+  {
+    "id": 10,
+    "title": "Caprese Salad",
+    "ingredients": ["tomato", "fresh mozzarella", "fresh basil", "olive oil", "balsamic glaze", "salt", "pepper"],
+    "instructions": [
+      "Slice tomatoes and mozzarella into similar thickness",
+      "Arrange on a plate, alternating tomato and mozzarella slices",
+      "Tuck fresh basil leaves between the slices",
+      "Drizzle with olive oil and balsamic glaze",
+      "Season with salt and pepper to taste"
+    ],
+    "cook_time_mins": 10,
+    "servings": 4,
+    "tags": ["salad", "vegetarian", "gluten-free", "italian"],
+    "image_url": "https://images.unsplash.com/photo-1556910630-9d4e41db4ef3?w=600"
+  }
+]
